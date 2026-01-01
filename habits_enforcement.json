@@ -1,0 +1,56 @@
+{
+  "habits": [
+    {
+      "id": 1767250984654,
+      "name": "yoga",
+      "type": "Daily",
+      "difficulty": "Medium",
+      "created_date": "2026-01-01",
+      "completed_dates": [
+        "2026-01-01"
+      ],
+      "missed_dates": [],
+      "debt": 0,
+      "punishment_due": false
+    },
+    {
+      "id": 1767250992481,
+      "name": "reading",
+      "type": "Daily",
+      "difficulty": "Medium",
+      "created_date": "2026-01-01",
+      "completed_dates": [],
+      "missed_dates": [
+        "2026-01-01"
+      ],
+      "debt": 1,
+      "punishment_due": true
+    },
+    {
+      "id": 1767250997369,
+      "name": "study",
+      "type": "Daily",
+      "difficulty": "Medium",
+      "created_date": "2026-01-01",
+      "completed_dates": [
+        "2026-01-01"
+      ],
+      "missed_dates": [],
+      "excuse_log": {
+        "2026-01-01": "No time"
+      }
+    }
+  ],
+  "total_points": 30,
+  "betrayals": 2,
+  "identity_statement": "i am disciplined",
+  "user_punishment": "30 pushups",
+  "last_report_date": null,
+  "personality_history": [
+    {
+      "date": "2026-01-01",
+      "personality": "Quitter",
+      "emoji": "\ud83d\uded1"
+    }
+  ]
+}
